@@ -1,4 +1,4 @@
-# Documentación del Proyecto de Estructuras de Datos en JavaScript
+# Estructuras de Datos en JavaScript
 
 Este proyecto proporciona implementaciones estructuras de datos basicas en JavaScript. Estas son esenciales para la manipulación eficiente de datos en aplicaciones de software y sistemas. Las estructuras implementadas incluyen:
 
