@@ -81,9 +81,9 @@ class NewCola{
 }
 
 /*Probando la estructura*/
-let perrillo = new NewCola();
+let cat = new NewCola();
 for (let i = 0; i < /*parseInt(Math.random() * 100)*/ 5 ; i++) {
-	perrillo.encolar(i+1)
+	cat.encolar(i+1)
 }
-perrillo.deleteHalf(5)
-console.log(perrillo)
+cat.deleteHalf(5)
+console.log(cat)
